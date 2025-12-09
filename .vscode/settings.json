@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["eguikuma"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.insertFinalNewline": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
